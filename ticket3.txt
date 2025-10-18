@@ -1,1 +1,3 @@
 first add and commit to ticket2 branch
+
+a second change to ticket2 branch
